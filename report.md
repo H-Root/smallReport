@@ -114,7 +114,7 @@ url: <http://172.16.100.14:3000/Surveys/Question>
 ### APIs
 
 **Getting Data** No API return a full list of questions  
-**Editing/Adding Data** /survey/Survey/SaveQuestion
+**Editing/Adding Data** /survey/Survey/SaveQuestion  
 **Deleting Data** /survey/Survey/DeleteQuestion
 
 <br />
